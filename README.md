@@ -1,0 +1,1 @@
+This PowerShell script filters through Entra ID guest accounts and reports on accounts which have not logged in for a specific period of time and have not been recently created. The resulting list contains stale/obsolete Entra ID guest accounts which are in scope for deletion.
